@@ -1,6 +1,5 @@
 
-$yum install git 
-OR
+$yum install git OR
 $apt install git
 
 VCS:
