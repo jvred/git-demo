@@ -62,11 +62,12 @@ https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74
 Error:
 remote: Write access to repository not granted.
 Select “repo” radio button while creating PAT
- 
+ <img width="524" alt="image" src="https://user-images.githubusercontent.com/68779362/184703269-1ff94a71-7efe-440e-afbf-b6f6a9f14139.png">
+
 
 git remote add origin https://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@github.com/jvred/git-demo.git
 
-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
+####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
 
 >> To undo merge files/content after pull
 
@@ -97,9 +98,9 @@ $git commit -m “f1add”
 
 $git push origin main
 
-
+====================
 % git branch release
 fatal: Not a valid object name: 'master'.
 Git will not create master branch on new repo until you commit anything.
+====================
 
-![image](https://user-images.githubusercontent.com/68779362/184702300-33ec0c25-68c5-4be4-aae0-443bb6fe3787.png)
