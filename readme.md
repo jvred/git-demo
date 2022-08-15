@@ -98,9 +98,10 @@ $git commit -m “f1add”
 
 $git push origin main
 
-====================
+--------
 % git branch release
 fatal: Not a valid object name: 'master'.
 Git will not create master branch on new repo until you commit anything.
-====================
+--------
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/68779362/184703630-9b2a3e1c-ff5d-421d-b60c-26410c61968f.png">
 
